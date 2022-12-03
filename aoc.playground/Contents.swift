@@ -21,3 +21,10 @@ let totalAssignmentsInclusion = try day4_1();
 print("Part 1 - Total assignments inclusion -> \(totalAssignmentsInclusion)");
 let totalAssignmentsOverlapping = try day4_2();
 print("Part 2 - Total assignments overlapping -> \(totalAssignmentsOverlapping)");
+
+
+print("\nDay 5");
+var cratesOnTop = try day5_1();
+print("Part 1 - Crates on top -> \(cratesOnTop)");
+cratesOnTop = try day5_2();
+print("Part 1 - Crates on top -> \(cratesOnTop)");
