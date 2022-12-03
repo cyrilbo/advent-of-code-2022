@@ -28,3 +28,9 @@ var cratesOnTop = try day5_1();
 print("Part 1 - Crates on top -> \(cratesOnTop)");
 cratesOnTop = try day5_2();
 print("Part 1 - Crates on top -> \(cratesOnTop)");
+
+print("\nDay 6");
+let marker4 = try day6_1();
+print("Part 1 - Start of packet marker -> \(marker4)");
+let marker14 = try day6_2();
+print("Part 1 - Start of packet marker -> \(marker14)");
